@@ -1,0 +1,6 @@
+torch
+torchvision
+tensorboardX
+torchrl
+numpy
+pillow

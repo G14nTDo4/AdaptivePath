@@ -1,0 +1,8 @@
+torch
+torchvision
+torchrl
+numpy
+pillow
+opencv-python-headless
+openslide-python
+tqdm
